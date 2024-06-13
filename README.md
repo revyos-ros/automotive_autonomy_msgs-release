@@ -1,3 +1,29 @@
+## automotive_autonomy_msgs (jazzy) - 3.0.4-7
+
+The packages in the `automotive_autonomy_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy automotive_autonomy_msgs --override-release-repository-push-url git@github.com:revyos-ros/automotive_autonomy_msgs-release.git` on `Thu, 13 Jun 2024 03:07:51 -0000`
+
+These packages were released:
+- `automotive_autonomy_msgs`
+- `automotive_navigation_msgs`
+- `automotive_platform_msgs`
+
+Version of package(s) in repository `automotive_autonomy_msgs`:
+
+- upstream repository: https://github.com/astuff/automotive_autonomy_msgs.git
+- release repository: https://github.com/revyos-ros/automotive_autonomy_msgs-release.git
+- rosdistro version: `3.0.4-6`
+- old version: `3.0.4-6`
+- new version: `3.0.4-7`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## automotive_autonomy_msgs (rolling) - 3.0.4-1
 
 The packages in the `automotive_autonomy_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling automotive_autonomy_msgs` on `Wed, 25 Aug 2021 14:07:03 -0000`
